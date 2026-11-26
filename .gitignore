@@ -1,0 +1,6 @@
+# Python bytecode and build outputs
+__pycache__/
+*.pyc
+*.exe
+*.o
+*.log
